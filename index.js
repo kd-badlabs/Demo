@@ -157,6 +157,7 @@ function panagram(str) {
     return "panagram";
   } else {
 //     add an console log in the this section of the code 
+    console.log("this is not a paragram")
     return "not panagram";
   }
 }
