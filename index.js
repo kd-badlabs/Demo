@@ -158,6 +158,7 @@ function panagram(str) {
   } else {
     //     add an console log in the this section of the code
     console.log("not panagram");
+
     return "not panagram";
   }
 }
